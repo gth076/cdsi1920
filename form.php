@@ -8,7 +8,7 @@
     
 </head>
 <body>
-    <h1>coronavirus Formulaire d'inscription</h1>
+    <h1>corona Formulaire d'inscription</h1>
 
     <?php
         if($_SERVER['REQUEST_METHOD'] == 'POST'){
