@@ -6,4 +6,4 @@ Le cours incluait HTML, CSS, PHP et Javascript
 
 
 
-Un, deux, Feddy te coupera en 2
+Un, deux, Freddy te coupera en 2
