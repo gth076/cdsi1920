@@ -1,0 +1,11 @@
+#important {
+    color: red;
+}
+ul{
+    list-style-type: disc;
+}
+li.vert{
+    background-color: green;
+    display: inline;
+    
+}
